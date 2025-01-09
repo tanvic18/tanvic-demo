@@ -1,4 +1,4 @@
 # tanvic-demo
 this is my git repositories
 <br>
-author - tanvi chaudhari
+author - tanvi chaudri
